@@ -1,0 +1,38 @@
+header{
+    font-size: 70px;
+    font-family: "Dancing Script", cursive;
+    color: aquamarine;
+    display: ruby-text;
+}
+body{
+    background-color: #03034b;
+}
+p{
+    color: aliceblue;
+    font-size: 30px;
+    font-family: "Teko", sans-serif;
+    margin-left: 10px;
+}
+.vid{
+    display: flex;
+}
+section{
+    background-color: royalblue;
+}
+iframe{
+    height:259px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 200px;
+}
+.coisas{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
